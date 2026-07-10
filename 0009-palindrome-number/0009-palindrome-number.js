@@ -12,6 +12,5 @@ var isPalindrome = function(x) {
     x = Math.floor(x / 10);
     rev = rev * 10 + lastDigit;
   }
-  if (rev == num) return true;
-  return false;
+  return rev === num;
 };
