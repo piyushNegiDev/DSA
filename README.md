@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/piyushNegiDev/DSA/tree/master/0035-search-insert-position) |
 | [0217-contains-duplicate](https://github.com/piyushNegiDev/DSA/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/piyushNegiDev/DSA/tree/master/0485-max-consecutive-ones) |
+| [1920-build-array-from-permutation](https://github.com/piyushNegiDev/DSA/tree/master/1920-build-array-from-permutation) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/piyushNegiDev/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Binary Search
 |  |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/piyushNegiDev/DSA/tree/master/0217-contains-duplicate) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/piyushNegiDev/DSA/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
