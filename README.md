@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/piyushNegiDev/DSA/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/piyushNegiDev/DSA/tree/master/0035-search-insert-position) |
+| [0088-merge-sorted-array](https://github.com/piyushNegiDev/DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/piyushNegiDev/DSA/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/piyushNegiDev/DSA/tree/master/0485-max-consecutive-ones) |
 | [1920-build-array-from-permutation](https://github.com/piyushNegiDev/DSA/tree/master/1920-build-array-from-permutation) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/piyushNegiDev/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/piyushNegiDev/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/piyushNegiDev/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/piyushNegiDev/DSA/tree/master/0344-reverse-string) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/piyushNegiDev/DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/piyushNegiDev/DSA/tree/master/0217-contains-duplicate) |
 ## Simulation
 |  |
