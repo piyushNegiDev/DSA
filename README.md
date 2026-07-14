@@ -23,12 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/piyushNegiDev/DSA/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/piyushNegiDev/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/piyushNegiDev/DSA/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/piyushNegiDev/DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/piyushNegiDev/DSA/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/piyushNegiDev/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/piyushNegiDev/DSA/tree/master/0344-reverse-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/piyushNegiDev/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Dynamic Programming
