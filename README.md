@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/piyushNegiDev/DSA/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/piyushNegiDev/DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/piyushNegiDev/DSA/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/piyushNegiDev/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/piyushNegiDev/DSA/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/piyushNegiDev/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/piyushNegiDev/DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/piyushNegiDev/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/piyushNegiDev/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/piyushNegiDev/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/piyushNegiDev/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/piyushNegiDev/DSA/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/piyushNegiDev/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## String
