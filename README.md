@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/piyushNegiDev/DSA/tree/master/0009-palindrome-number) |
 | [0509-fibonacci-number](https://github.com/piyushNegiDev/DSA/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/piyushNegiDev/DSA/tree/master/1137-n-th-tribonacci-number) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/piyushNegiDev/DSA/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/piyushNegiDev/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/piyushNegiDev/DSA/tree/master/1920-build-array-from-permutation) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/piyushNegiDev/DSA/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2553-separate-the-digits-in-an-array](https://github.com/piyushNegiDev/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 ## Number Theory
 |  |
