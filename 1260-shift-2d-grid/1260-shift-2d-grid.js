@@ -19,7 +19,6 @@ var rotate = function (arr, k) {
   reverse(arr, 0, n - k - 1);
   reverse(arr, n - k, n - 1);
   reverse(arr, 0, n - 1);
-  return arr;
 };
 
 var shiftGrid = function(grid, k) { 
@@ -31,7 +30,7 @@ var shiftGrid = function(grid, k) {
     }
   }  
 
-  store = rotate(store,k);
+  rotate(store,k);
 
   for(let i = 0; i < grid.length; i++){
     for(let j = 0; j < grid[i].length; j++){
