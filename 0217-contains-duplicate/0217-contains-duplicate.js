@@ -6,8 +6,7 @@ var containsDuplicate = function(nums) {
     let map = new Map();
     for(let i = 0;i<nums.length;i++){
         map.set(nums[i],(map.get(nums[i])||0)+1)
+        if(map.get(nums[i]) >= 2) return true;
     }
-    let max = Math.max(...map.values());
-    if(max===1) return false;
-    return true;
+    return false;
 };
