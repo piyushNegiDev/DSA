@@ -23,10 +23,6 @@ var rotate = function (arr, k) {
 };
 
 var shiftGrid = function(grid, k) { 
-  const m = grid.length;
-  const n = grid[0].length;
-  const total = m * n;
-  k %= total;
   let store = [];
   let index = 0;
   for(let i = 0; i < grid.length; i++){
