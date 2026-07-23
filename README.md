@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/piyushNegiDev/DSA/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/piyushNegiDev/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/piyushNegiDev/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/piyushNegiDev/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2553-separate-the-digits-in-an-array](https://github.com/piyushNegiDev/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/piyushNegiDev/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Binary Search
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/piyushNegiDev/DSA/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/piyushNegiDev/DSA/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/piyushNegiDev/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/piyushNegiDev/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1260-shift-2d-grid](https://github.com/piyushNegiDev/DSA/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/piyushNegiDev/DSA/tree/master/1920-build-array-from-permutation) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/piyushNegiDev/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/piyushNegiDev/DSA/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2553-separate-the-digits-in-an-array](https://github.com/piyushNegiDev/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 ## Number Theory
