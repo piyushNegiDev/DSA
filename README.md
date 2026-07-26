@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/piyushNegiDev/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/piyushNegiDev/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/piyushNegiDev/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [0989-add-to-array-form-of-integer](https://github.com/piyushNegiDev/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1260-shift-2d-grid](https://github.com/piyushNegiDev/DSA/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/piyushNegiDev/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/piyushNegiDev/DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/piyushNegiDev/DSA/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/piyushNegiDev/DSA/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/piyushNegiDev/DSA/tree/master/0509-fibonacci-number) |
+| [0989-add-to-array-form-of-integer](https://github.com/piyushNegiDev/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1137-n-th-tribonacci-number](https://github.com/piyushNegiDev/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/piyushNegiDev/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/piyushNegiDev/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
