@@ -33,7 +33,5 @@ var maximumProduct = function (nums) {
   let max1 = largest1 * largest2 * largest3;
   let max2 = smallest1 * smallest2 * largest1;
 
-  console.log(largest1,largest2,largest3,smallest1,smallest2,max1,max2);
-
   return Math.max(max1,max2);
 };
