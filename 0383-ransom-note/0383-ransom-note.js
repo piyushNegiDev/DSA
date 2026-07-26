@@ -4,23 +4,24 @@
  * @return {boolean}
  */
 var canConstruct = function(ransomNote, magazine) {
-    magazine = magazine.split('').sort().join('');
-    ransomNote = ransomNote.split('').sort().join('');
+    let map = new Map();
+    let count = 0;
 
-    if(ransomNote.length > magazine.length) return false;
+    for (let char of ransomNote) {
+        map.set(char, (map.get(char) || 0) + 1);
+        count++;
+    }
 
-    let i = 0;
-    let j = 0;
+    for (let char of magazine) {
+        if (map.has(char) && map.get(char) > 0) {
+            map.set(char, map.get(char) - 1);
+            count--;
 
-    while (i < ransomNote.length && j < magazine.length) {
-        if(ransomNote[i] === magazine[j]) {
-            i++;
-            j++;
-        } else {
-            j++;
+            if (count === 0) {
+                return true;
+            }
         }
     }
-    
-    if(i === ransomNote.length && j <= magazine.length) return true;
+
     return false;
 };
