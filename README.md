@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/piyushNegiDev/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/piyushNegiDev/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/piyushNegiDev/DSA/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/piyushNegiDev/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/piyushNegiDev/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/piyushNegiDev/DSA/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/piyushNegiDev/DSA/tree/master/0303-range-sum-query-immutable) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/piyushNegiDev/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/piyushNegiDev/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/piyushNegiDev/DSA/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/piyushNegiDev/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/piyushNegiDev/DSA/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/piyushNegiDev/DSA/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/piyushNegiDev/DSA/tree/master/0383-ransom-note) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/piyushNegiDev/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/piyushNegiDev/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/piyushNegiDev/DSA/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/piyushNegiDev/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/piyushNegiDev/DSA/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/piyushNegiDev/DSA/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/piyushNegiDev/DSA/tree/master/0455-assign-cookies) |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/piyushNegiDev/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/piyushNegiDev/DSA/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/piyushNegiDev/DSA/tree/master/0383-ransom-note) |
 ## Design
 |  |
