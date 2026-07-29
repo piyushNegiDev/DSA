@@ -11,10 +11,10 @@ var majorityElement = function(nums) {
 
       for(let i = 0; i < n; i++) {
         if(count1 === 0 && nums[i] !== elem2) {
-            count1++;
+            count1 = 1;
             elem1 = nums[i]
         } else if (count2 === 0 && nums[i] !== elem1) {
-            count2++;
+            count2 = 1;
             elem2 = nums[i];
         } else if(elem1 === nums[i]) {
             count1++;
