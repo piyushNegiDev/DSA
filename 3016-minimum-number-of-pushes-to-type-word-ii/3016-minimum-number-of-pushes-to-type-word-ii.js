@@ -3,23 +3,18 @@
  * @return {number}
  */
 var minimumPushes = function(word) {
-    let ans = 0;
-    let n = word.length;
-    let map = new Map();
-    word = word.split('');
-    let freq = [];
-    for(let i = 0; i < n; i++) {
-        map.set(word[i], (map.get(word[i]) || 0) + 1);
-    }
+    let freq = new Array(26).fill(0);
 
-    for(const [key, value] of map) {
-        freq.push(value);
+    for (let char of word) {
+        freq[char.charCodeAt(0) - 97]++;
     }
 
     freq.sort((a, b) => b - a);
 
-    for(let i = 0; i < freq.length; i++) {
-        let cost = Math.floor(i / 8) + 1
+    let ans = 0;
+
+    for (let i = 0; i < 26; i++) {
+        let cost = Math.floor(i / 8) + 1;
         ans += freq[i] * cost;
     }
 
