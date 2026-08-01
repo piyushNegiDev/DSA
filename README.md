@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/piyushNegiDev/DSA/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/piyushNegiDev/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/piyushNegiDev/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/piyushNegiDev/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/piyushNegiDev/DSA/tree/master/0027-remove-element) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/piyushNegiDev/DSA/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/piyushNegiDev/DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/piyushNegiDev/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/piyushNegiDev/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -213,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/piyushNegiDev/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/piyushNegiDev/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
