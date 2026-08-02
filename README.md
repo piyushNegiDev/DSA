@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/piyushNegiDev/DSA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/piyushNegiDev/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/piyushNegiDev/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/piyushNegiDev/DSA/tree/master/0877-stone-game) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/piyushNegiDev/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/piyushNegiDev/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/piyushNegiDev/DSA/tree/master/0989-add-to-array-form-of-integer) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/piyushNegiDev/DSA/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/piyushNegiDev/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/piyushNegiDev/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/piyushNegiDev/DSA/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/piyushNegiDev/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1137-n-th-tribonacci-number](https://github.com/piyushNegiDev/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/piyushNegiDev/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/piyushNegiDev/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/piyushNegiDev/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/piyushNegiDev/DSA/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/piyushNegiDev/DSA/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/piyushNegiDev/DSA/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
@@ -222,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/piyushNegiDev/DSA/tree/master/0014-longest-common-prefix) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/piyushNegiDev/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
