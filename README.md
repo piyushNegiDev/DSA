@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/piyushNegiDev/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/piyushNegiDev/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2553-separate-the-digits-in-an-array](https://github.com/piyushNegiDev/DSA/tree/master/2553-separate-the-digits-in-an-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/piyushNegiDev/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/piyushNegiDev/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Binary Search
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/piyushNegiDev/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/piyushNegiDev/DSA/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2544-alternating-digit-sum](https://github.com/piyushNegiDev/DSA/tree/master/2544-alternating-digit-sum) |
+| [2965-find-missing-and-repeated-values](https://github.com/piyushNegiDev/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/piyushNegiDev/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/piyushNegiDev/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3536-maximum-product-of-two-digits](https://github.com/piyushNegiDev/DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/piyushNegiDev/DSA/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/piyushNegiDev/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/piyushNegiDev/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
+| [2965-find-missing-and-repeated-values](https://github.com/piyushNegiDev/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/piyushNegiDev/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/piyushNegiDev/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/piyushNegiDev/DSA/tree/master/0073-set-matrix-zeroes) |
 | [1260-shift-2d-grid](https://github.com/piyushNegiDev/DSA/tree/master/1260-shift-2d-grid) |
+| [2965-find-missing-and-repeated-values](https://github.com/piyushNegiDev/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |
