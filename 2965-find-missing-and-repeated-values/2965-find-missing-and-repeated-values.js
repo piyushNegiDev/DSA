@@ -2,27 +2,28 @@
  * @param {number[][]} grid
  * @return {number[]}
  */
-var findMissingAndRepeatedValues = function(grid) {
+var findMissingAndRepeatedValues = function (grid) {
     let n = grid.length;
-    let map = new Map();
-    let repeated, missing;
+    let N = n * n;
 
-    for(let i = 1; i <= n * n; i++) {
-        map.set(i, 0);
-    }
-    
-    for(let i = 0; i < n; i++) {
-        for(let j = 0; j < n; j++) {
-            if(map.has(grid[i][j])) {
-                map.set(grid[i][j], map.get(grid[i][j]) + 1);
-            }
+    let expectedSum = N * (N + 1) / 2;
+    let expectedSquareSum = N * (N + 1) * (2 * N + 1) / 6;
+
+    let sum = 0;
+    let squareSum = 0;
+
+    for (let row of grid) {
+        for (let num of row) {
+            sum += num;
+            squareSum += num * num;
         }
     }
 
-    for(let [key, value] of map) {
-        if(value === 0) missing = key;
-        if(value === 2) repeated = key;
-    }
+    let diff = sum - expectedSum;
+    let sumOfNumbers = (squareSum - expectedSquareSum) / diff;
+
+    let repeated = (diff + sumOfNumbers) / 2;
+    let missing = sumOfNumbers - repeated;
 
     return [repeated, missing];
 };
