@@ -5,7 +5,7 @@
 var findMissingAndRepeatedValues = function(grid) {
     let n = grid.length;
     let map = new Map();
-    let ans = [];
+    let repeated, missing;
 
     for(let i = 1; i <= n * n; i++) {
         map.set(i, 0);
@@ -20,22 +20,9 @@ var findMissingAndRepeatedValues = function(grid) {
     }
 
     for(let [key, value] of map) {
-        if(value === 0) {
-            if(ans.length === 0) {
-                ans.unshift(key);
-            } else {
-                ans.push(key);
-            }
-        }
-
-        if(value === 2) {
-            if(ans.length === 0) {
-                ans.push(key);
-            } else {
-                ans.unshift(key);
-            }
-        }
+        if(value === 0) missing = key;
+        if(value === 2) repeated = key;
     }
 
-    return ans;
+    return [repeated, missing];
 };
