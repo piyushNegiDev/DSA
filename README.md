@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/piyushNegiDev/DSA/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/piyushNegiDev/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/piyushNegiDev/DSA/tree/master/0217-contains-duplicate) |
+| [0228-summary-ranges](https://github.com/piyushNegiDev/DSA/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/piyushNegiDev/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/piyushNegiDev/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/piyushNegiDev/DSA/tree/master/0283-move-zeroes) |
