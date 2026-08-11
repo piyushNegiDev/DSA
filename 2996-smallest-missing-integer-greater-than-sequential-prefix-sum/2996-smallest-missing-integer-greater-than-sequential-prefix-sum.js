@@ -3,30 +3,20 @@
  * @return {number}
  */
 var missingInteger = function (nums) {
-  let ans = 0;
-  let prefixSum = nums[0];
-  let breakPoint = 0;
+  let sum = nums[0];
+  let set = new Set(nums);
 
   for (let i = 1; i < nums.length; i++) {
     if (nums[i - 1] + 1 === nums[i]) {
-      prefixSum += nums[i];
+      sum += nums[i];
     } else {
       break;
     }
   }
 
-  ans = prefixSum;
-
-  while (breakPoint < nums.length) {
-    for (let i = 0; i < nums.length; i++) {
-      if (nums[i] === prefixSum) {
-        prefixSum++;
-        breakPoint++;
-      }
-    }
-    if (ans === prefixSum) return ans;
-    else ans = prefixSum;
+  while(set.has(sum)) {
+    sum++;
   }
 
-  return ans;
+  return sum;
 };
