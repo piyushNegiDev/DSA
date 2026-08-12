@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/piyushNegiDev/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/piyushNegiDev/DSA/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/piyushNegiDev/DSA/tree/master/0303-range-sum-query-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/piyushNegiDev/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/piyushNegiDev/DSA/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/piyushNegiDev/DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/piyushNegiDev/DSA/tree/master/0485-max-consecutive-ones) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/piyushNegiDev/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/piyushNegiDev/DSA/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/piyushNegiDev/DSA/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/piyushNegiDev/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/piyushNegiDev/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/piyushNegiDev/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/piyushNegiDev/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/piyushNegiDev/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/piyushNegiDev/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/piyushNegiDev/DSA/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/piyushNegiDev/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/piyushNegiDev/DSA/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/piyushNegiDev/DSA/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/piyushNegiDev/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -218,11 +221,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/piyushNegiDev/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/piyushNegiDev/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/piyushNegiDev/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/piyushNegiDev/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/piyushNegiDev/DSA/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/piyushNegiDev/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/piyushNegiDev/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/piyushNegiDev/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/piyushNegiDev/DSA/tree/master/2351-first-letter-to-appear-twice) |
@@ -244,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/piyushNegiDev/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/piyushNegiDev/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
 |  |
@@ -278,4 +284,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/piyushNegiDev/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/piyushNegiDev/DSA/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/piyushNegiDev/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
