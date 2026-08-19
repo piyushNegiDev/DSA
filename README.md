@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/piyushNegiDev/DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/piyushNegiDev/DSA/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/piyushNegiDev/DSA/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/piyushNegiDev/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/piyushNegiDev/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/piyushNegiDev/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/piyushNegiDev/DSA/tree/master/0877-stone-game) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/piyushNegiDev/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/piyushNegiDev/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/piyushNegiDev/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/piyushNegiDev/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/piyushNegiDev/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/piyushNegiDev/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1386-cinema-seat-allocation](https://github.com/piyushNegiDev/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/piyushNegiDev/DSA/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/piyushNegiDev/DSA/tree/master/0496-next-greater-element-i) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -326,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/piyushNegiDev/DSA/tree/master/0493-reverse-pairs) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/piyushNegiDev/DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
