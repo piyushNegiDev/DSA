@@ -4,15 +4,23 @@
  * @return {number}
  */
 var searchInsert = function(nums, target) {
-let smallerThanTarget = -Infinity;
-    for (let i = 0; i < nums.length; i++) {
-    if (nums[i] === target) {
-      return i;
-    } else if (nums[i] >= smallerThanTarget && nums[i] < target) {
-      smallerThanTarget = nums[i];
+    let low = 0;
+    let high = nums.length - 1;
+    let ans = nums.length;
+
+    while(low <= high) {
+        let mid = Math.floor((low + high) / 2);
+
+        if(nums[mid] === target) {
+            return mid;
+        }
+        else if (nums[mid] >= target) {
+            ans = mid;
+            high = mid - 1;
+        } else {
+            low = mid + 1;
+        }
     }
-    if (i + 1 === nums.length) {
-      return (nums.indexOf(smallerThanTarget) + 1);
-    }
-  }
+
+    return ans;
 };
