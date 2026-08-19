@@ -4,22 +4,19 @@
  * @return {number[]}
  */
 var nextGreaterElement = function(nums1, nums2) {
+    let stack = [];
     let map = new Map();
 
-    for(let i = 0; i < nums2.length; i++) {
-        if(i === nums2.length - 1) {
-            map.set(nums2[i], -1);
-            break;
+    for (let i = 0; i < nums2.length; i++) {
+        while (stack.length > 0 && nums2[i] > stack[stack.length - 1]) {
+            let popElem = stack.pop();
+            map.set(popElem, nums2[i]);
         }
+        stack.push(nums2[i]);
+    }
 
-        for(let j = i + 1; j < nums2.length; j++) {
-            if(nums2[i] < nums2[j]) {
-                map.set(nums2[i], nums2[j]);
-                break;
-            } else if (j === nums2.length - 1) {
-                map.set(nums2[i], -1);
-            }
-        }
+    for(let i = 0; i < stack.length; i++) {
+        map.set(stack[i], -1);
     }
 
     for(let i = 0; i < nums1.length; i++) {
