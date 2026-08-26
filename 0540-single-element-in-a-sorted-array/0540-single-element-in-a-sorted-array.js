@@ -13,16 +13,18 @@ var singleNonDuplicate = function(nums) {
             return nums[mid];
         }
 
-        if(nums[low - 1] !== nums[low] && nums[low] !== nums[low + 1]) {
-            return nums[low];
+        if(mid % 2 === 0) {
+            if(nums[mid] === nums[mid + 1]) {
+                low = mid + 2;
+            } else {
+                high = mid - 2;
+            }
         } else {
-            low++;
-        }
-
-        if(nums[high - 1] !== nums[high] && nums[high] !== nums[high + 1]) {
-            return nums[high];
-        } else {
-            high--;
+            if(nums[mid] === nums[mid - 1]) {
+                low = mid + 1;
+            } else {
+                high = mid - 1;
+            }
         }
     }
 };
