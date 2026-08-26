@@ -24,8 +24,6 @@ var shortestBeautifulSubstring = function(s, k) {
         }
     }
 
-    // console.log(sMap);
-
     if(sMap.size === 0) return '';
 
     for(let [key, value] of sMap) {
