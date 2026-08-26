@@ -33,9 +33,5 @@ var shortestBeautifulSubstring = function(s, k) {
         }
     }
 
-    while(ans.endsWith('0')) {
-        ans = ans.slice(0, -1);
-    }
-
     return ans;
 }; 
