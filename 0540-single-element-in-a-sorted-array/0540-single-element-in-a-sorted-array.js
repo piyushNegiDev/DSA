@@ -9,10 +9,6 @@ var singleNonDuplicate = function(nums) {
     while(low <= high) {
         let mid = Math.floor((low + high) / 2);
 
-        if(nums[mid - 1] !== nums[mid] && nums[mid] !== nums[mid + 1]) {
-            return nums[mid];
-        }
-
         if(mid % 2 === 0) {
             if(nums[mid] === nums[mid + 1]) {
                 low = mid + 2;
@@ -27,4 +23,6 @@ var singleNonDuplicate = function(nums) {
             }
         }
     }
+
+    return nums[low];
 };
