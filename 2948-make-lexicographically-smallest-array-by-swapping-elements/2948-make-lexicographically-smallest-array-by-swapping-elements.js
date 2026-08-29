@@ -14,30 +14,21 @@ var lexicographicallySmallestArray = function(nums, limit) {
   pairs.sort((a, b) => a[0] - b[0]);
 
   let start = 0;
-  let groups = [];
-  let indices = [];
 
   for(let i = 1; i <= n; i++) {
+    let indices = []; 
+    
     if(i === n || pairs[i][0] - pairs[i - 1][0] > limit) {
-        let group = [];
-        let indice = [];
         for(let j = start; j < i; j++) {
-            group.push(pairs[j][0]);
-            indice.push(pairs[j][1]);
+            indices.push(pairs[j][1]);
         }
-        groups.push(group);
-        indices.push(indice);
+
+        indices.sort((a, b) => a - b);
+
+        for(let j = start; j < i; j++) {
+            nums[indices[j - start]] = pairs[j][0];
+        }
         start = i;
-    }
-  }
-
-  for(let i = 0; i < indices.length; i++) {
-    indices[i].sort((a, b) => a - b);
-  }
-
-  for(let i = 0; i < groups.length; i++) {
-    for(let j = 0; j < groups[i].length; j++) {
-        nums[indices[i][j]] = groups[i][j]
     }
   }
 
