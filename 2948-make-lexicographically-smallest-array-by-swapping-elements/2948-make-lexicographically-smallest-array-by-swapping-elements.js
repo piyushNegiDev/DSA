@@ -16,9 +16,9 @@ var lexicographicallySmallestArray = function(nums, limit) {
   let start = 0;
 
   for(let i = 1; i <= n; i++) {
-    let indices = []; 
     
     if(i === n || pairs[i][0] - pairs[i - 1][0] > limit) {
+        let indices = []; 
         for(let j = start; j < i; j++) {
             indices.push(pairs[j][1]);
         }
