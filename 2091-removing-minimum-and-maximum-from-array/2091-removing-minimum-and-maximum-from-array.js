@@ -14,11 +14,9 @@ var minimumDeletions = function(nums) {
         if(nums[i] < nums[min]) min = i;
     }
 
-    let mid = Math.floor((n - 1) / 2);
-
     let removeFromFront = max > min ? max + 1 : min + 1;
     let removeFromBack = max < min ?  n - max : n - min;
-    let removeSeprate = min >= mid ? max + 1 + n - min : min + 1 + n - max;
+    let removeFromBoth = min < max ? (min + 1) + (n - max) : (max + 1) + (n - min);
 
-    return Math.min(removeSeprate, Math.min(removeFromFront, removeFromBack));
+    return Math.min(removeFromBoth, Math.min(removeFromFront, removeFromBack));
 };
