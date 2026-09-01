@@ -11,7 +11,6 @@ var minEatingSpeed = function(piles, h) {
         maxInArr = Math.max(piles[i], maxInArr);
     }
 
-    let ans = maxInArr;
     let low = 1;
     let high = maxInArr;
 
@@ -22,14 +21,13 @@ var minEatingSpeed = function(piles, h) {
         for(let i = 0; i < n; i++) {
             hours += Math.ceil(piles[i] / mid);
         }
-        
+
         if(hours <= h) {
-            ans = Math.min(mid, ans);
             high = mid - 1;
         } else {
             low = mid + 1;
         }
     }
 
-    return ans;
+    return low;
 };
