@@ -19,7 +19,7 @@ var isPossible = function(bloomDay, day, m, k) {
     }
     bouquetsMade += Math.floor(count / k);
 
-    return bouquetsMade >= m ? true : false;
+    return bouquetsMade >= m;
 }
 
 var minDays = function(bloomDay, m, k) {
