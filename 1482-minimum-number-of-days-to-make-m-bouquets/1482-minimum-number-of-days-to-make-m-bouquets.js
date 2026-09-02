@@ -9,7 +9,7 @@ var isPossible = function(bloomDay, day, m, k) {
     let count = 0;
     let bouquetsMade = 0;
 
-    for(let i = 0; i <= n; i++) {
+    for(let i = 0; i < n; i++) {
         if(bloomDay[i] <= day) {
             count++;
         } else if(i <= n) {
