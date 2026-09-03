@@ -9,8 +9,8 @@ var uniformArray = function(nums1) {
     let smallestEven = Infinity;
     let smallestOdd = Infinity;
 
-    let evenArr = [];
-    let oddArr = [];
+    let evenCount = 0;
+    let oddCount = 0;
 
     for(let i = 0; i < n; i++) {
         if(nums1[i] % 2 === 0 && nums1[i] < smallestEven) {
@@ -22,19 +22,19 @@ var uniformArray = function(nums1) {
 
     for(let i = 0; i < n; i++) {
         if(nums1[i] % 2 === 0) {
-            evenArr.push(nums1[i]);
+            evenCount++
         } else if(nums1[i] - smallestOdd >= 1) {
-            evenArr.push(nums1[i] - smallestOdd);
+            evenCount++
         }
 
         if(nums1[i] % 2 !== 0) {
-            oddArr.push(nums1[i]);
+            oddCount++;
         } else if(nums1[i] - smallestOdd >= 1) {
-            oddArr.push(nums1[i] - smallestOdd);
+            oddCount++;
         }
     }
-    if(evenArr.length === n) return true;
-    if(oddArr.length === n) return true;
+    if(evenCount === n) return true;
+    if(oddCount === n) return true;
     
     return false;
 };
