@@ -10,16 +10,14 @@ var divisorSum = function (nums, divisor) {
         sum += Math.ceil(nums[i] / divisor);
     }
 
-    console.log(sum);
-
     return sum;
 }
 
 var smallestDivisor = function(nums, threshold) {
     let low = 1;
-    let high = -Infinity;
+    let high = nums[0];
 
-    for(let i = 0; i < nums.length; i++) {
+    for(let i = 1; i < nums.length; i++) {
         high = Math.max(high, nums[i]);
     }
 
