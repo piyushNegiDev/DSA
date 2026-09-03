@@ -20,21 +20,7 @@ var uniformArray = function(nums1) {
         }
     }
 
-    for(let i = 0; i < n; i++) {
-        if(nums1[i] % 2 === 0) {
-            evenCount++
-        } else if(nums1[i] - smallestOdd >= 1) {
-            evenCount++
-        }
-
-        if(nums1[i] % 2 !== 0) {
-            oddCount++;
-        } else if(nums1[i] - smallestOdd >= 1) {
-            oddCount++;
-        }
-    }
-    if(evenCount === n) return true;
-    if(oddCount === n) return true;
+    if(smallestEven > smallestOdd || smallestOdd === Infinity) return true;
     
     return false;
 };
