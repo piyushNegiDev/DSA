@@ -26,16 +26,14 @@ var uniformArray = function(nums1) {
         } else if(nums1[i] - smallestOdd >= 1) {
             evenArr.push(nums1[i] - smallestOdd);
         }
-    }
-    if(evenArr.length === n) return true;
 
-    for(let i = 0; i < n; i++) {
         if(nums1[i] % 2 !== 0) {
             oddArr.push(nums1[i]);
         } else if(nums1[i] - smallestOdd >= 1) {
             oddArr.push(nums1[i] - smallestOdd);
         }
     }
+    if(evenArr.length === n) return true;
     if(oddArr.length === n) return true;
     
     return false;
