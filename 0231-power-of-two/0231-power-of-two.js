@@ -3,7 +3,7 @@
  * @return {boolean}
  */
 var isPowerOfTwo = function(n) {
-    while(n > 0) {
+    while(n >= 1) {
         if(n === 1) return true;
         n = n / 2;
     }
