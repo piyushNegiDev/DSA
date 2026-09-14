@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/piyushNegiDev/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/piyushNegiDev/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/piyushNegiDev/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/piyushNegiDev/DSA/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/piyushNegiDev/DSA/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/piyushNegiDev/DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/piyushNegiDev/DSA/tree/master/0485-max-consecutive-ones) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/piyushNegiDev/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/piyushNegiDev/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/piyushNegiDev/DSA/tree/master/0367-valid-perfect-square) |
+| [0410-split-array-largest-sum](https://github.com/piyushNegiDev/DSA/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/piyushNegiDev/DSA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/piyushNegiDev/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/piyushNegiDev/DSA/tree/master/0704-binary-search) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/piyushNegiDev/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/piyushNegiDev/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/piyushNegiDev/DSA/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/piyushNegiDev/DSA/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/piyushNegiDev/DSA/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/piyushNegiDev/DSA/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/piyushNegiDev/DSA/tree/master/1137-n-th-tribonacci-number) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/piyushNegiDev/DSA/tree/master/0303-range-sum-query-immutable) |
+| [0410-split-array-largest-sum](https://github.com/piyushNegiDev/DSA/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/piyushNegiDev/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/piyushNegiDev/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/piyushNegiDev/DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -335,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/piyushNegiDev/DSA/tree/master/0011-container-with-most-water) |
+| [0410-split-array-largest-sum](https://github.com/piyushNegiDev/DSA/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/piyushNegiDev/DSA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/piyushNegiDev/DSA/tree/master/0561-array-partition) |
 | [1386-cinema-seat-allocation](https://github.com/piyushNegiDev/DSA/tree/master/1386-cinema-seat-allocation) |
