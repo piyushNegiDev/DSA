@@ -1,0 +1,14 @@
+/**
+ * @param {string} num
+ * @return {string}
+ */
+var largestOddNumber = function(num) {
+    let n = num.length;
+
+    for(let i = n - 1; i >= 0; i--) {
+        let no = Number(num[i]);
+        if(no % 2 !== 0) return num.slice(0, i + 1);
+    }
+
+    return "";
+};
