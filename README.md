@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/piyushNegiDev/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/piyushNegiDev/DSA/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2553-separate-the-digits-in-an-array](https://github.com/piyushNegiDev/DSA/tree/master/2553-separate-the-digits-in-an-array) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/piyushNegiDev/DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/piyushNegiDev/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/piyushNegiDev/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/piyushNegiDev/DSA/tree/master/2965-find-missing-and-repeated-values) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/piyushNegiDev/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1386-cinema-seat-allocation](https://github.com/piyushNegiDev/DSA/tree/master/1386-cinema-seat-allocation) |
 | [2351-first-letter-to-appear-twice](https://github.com/piyushNegiDev/DSA/tree/master/2351-first-letter-to-appear-twice) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/piyushNegiDev/DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/piyushNegiDev/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/piyushNegiDev/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/piyushNegiDev/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/piyushNegiDev/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/piyushNegiDev/DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/piyushNegiDev/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/piyushNegiDev/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/piyushNegiDev/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
