@@ -20,18 +20,20 @@ var countCompleteSubarrays = function (nums) {
   }
 
   while (left < n) {
-    while(right < n && windowMap.size < map.size) {
+    while (right < n && windowMap.size < map.size) {
       windowMap.set(nums[right], (windowMap.get(nums[right]) || 0) + 1);
       right++;
     }
+
     if (windowMap.size === map.size) {
-      count += n - right + 1;      
-    } 
+      count += n - right + 1;
+    }
+
     windowMap.set(nums[left], windowMap.get(nums[left]) - 1);
-      if(windowMap.get(nums[left]) === 0) {
-        windowMap.delete(nums[left]);
-      }
-      left++;
+    if (windowMap.get(nums[left]) === 0) {
+      windowMap.delete(nums[left]);
+    }
+    left++;
   }
 
   return count;
