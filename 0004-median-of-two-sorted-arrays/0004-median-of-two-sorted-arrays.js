@@ -30,6 +30,4 @@ var findMedianSortedArrays = function(nums1, nums2) {
         else if(l1 > r2) high = mid1 - 1;
         else low = mid1 + 1;
     }
-
-    return 0;
 };
