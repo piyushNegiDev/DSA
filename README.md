@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/piyushNegiDev/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/piyushNegiDev/DSA/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2553-separate-the-digits-in-an-array](https://github.com/piyushNegiDev/DSA/tree/master/2553-separate-the-digits-in-an-array) |
+| [2643-row-with-maximum-ones](https://github.com/piyushNegiDev/DSA/tree/master/2643-row-with-maximum-ones) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/piyushNegiDev/DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/piyushNegiDev/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/piyushNegiDev/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/piyushNegiDev/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/piyushNegiDev/DSA/tree/master/0073-set-matrix-zeroes) |
 | [1260-shift-2d-grid](https://github.com/piyushNegiDev/DSA/tree/master/1260-shift-2d-grid) |
+| [2643-row-with-maximum-ones](https://github.com/piyushNegiDev/DSA/tree/master/2643-row-with-maximum-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/piyushNegiDev/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
