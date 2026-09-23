@@ -4,9 +4,11 @@
  * @return {number}
  */
 var minOperations = function(nums, x) {
+    let n = nums.length;
+
     let sum = 0;
-    for(let i of nums){
-        sum += i;
+    for(let i = 0; i < n; i++) {
+        sum += nums[i];
     }
 
     let target = sum - x;
@@ -14,7 +16,7 @@ var minOperations = function(nums, x) {
     let maxLen = -1;
     let currentSum = 0;
 
-    for(let i = 0; i < nums.length; i++) {
+    for(let i = 0; i < n; i++) {
         currentSum += nums[i]
 
         while(currentSum > target) {
@@ -27,5 +29,5 @@ var minOperations = function(nums, x) {
         }
     }
 
-    return maxLen === -1 ? -1 : nums.length - maxLen;
+    return maxLen === -1 ? -1 : n - maxLen;
 };
