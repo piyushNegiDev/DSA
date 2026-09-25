@@ -4,9 +4,9 @@
  */
 var beautySum = function(s) {
     let totalBeauty = 0;
+    let freq = Array.from({ length: 26 }, () => 0);
 
     for(let i = 0; i < s.length; i++) {
-        let freq = Array.from({ length: 26 }, () => 0);
 
         for(let j = i; j < s.length; j++) {
             freq[s[j].charCodeAt(0) - 97]++;
@@ -23,6 +23,8 @@ var beautySum = function(s) {
 
             totalBeauty += (maxFreq - minFreq);
         }
+
+        freq.fill(0);
     }
 
     return totalBeauty;
