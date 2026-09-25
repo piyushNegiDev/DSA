@@ -5,38 +5,29 @@
 var myAtoi = function(s) {
     s = s.trim();
 
-    let isNegative = 1;
-    let isStartWithZero = true;
-    let isFirstNum = true;
+    let sign = 1;
     let num = 0;
+    let i = 0;
 
-    for(let i = 0; i < s.length; i++) {
-        if(s[i] === '-' && i === 0) {
-            isNegative *= -1;
-        } else if (s[i] === '+' && i === 0) {
-
-        } else if(s[i] === '0' && isStartWithZero) {
-
-        } else if (/[0-9]/.test(s[i]) && isFirstNum) {
-            isStartWithZero = false;
-            isFirstNum = false;
-            num += Number(s[i]);
-        } else if (/[0-9]/.test(s[i])) {
-            if(s[i] === 0) num * 10;
-            else num = num * 10 + Number(s[i]);
-        } else {
-            break;
-        }
+    if (s[i] === '-') {
+        sign = -1;
+        i++;
+    } else if (s[i] === '+') {
+        i++;
     }
 
-    num *= isNegative;
-    let range = Math.pow(2, 31);
+    while (i < s.length && s[i] >= '0' && s[i] <= '9') {
+        num = num * 10 + Number(s[i]);
+        i++;
+    }
 
-    if(num >= range * -1 && range - 1 >= num) return num; 
+    num *= sign;
 
-    if(num < range * -1) return range * -1
+    let min = -(2 ** 31);
+    let max = 2 ** 31 - 1;
 
-    if(num > range - 1) return range - 1; 
+    if (num < min) return min;
+    if (num > max) return max;
 
-    return 0;
+    return num;
 };
