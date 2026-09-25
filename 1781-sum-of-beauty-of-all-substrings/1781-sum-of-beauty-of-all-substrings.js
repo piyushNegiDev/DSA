@@ -2,33 +2,28 @@
  * @param {string} s
  * @return {number}
  */
-var minAndMax = function(map){
-    let maxF = -Infinity;
-    let minF = Infinity;
-
-    for(const [key, value] of map) {
-        maxF = Math.max(maxF, value);
-        minF = Math.min(minF, value);
-    }
-
-    return {maxF, minF};
-}
-
 var beautySum = function(s) {
-    let beautySum = 0;
+    let totalBeauty = 0;
 
     for(let i = 0; i < s.length; i++) {
-        let map = new Map();
+        let freq = Array.from({ length: 26 }, () => 0);
 
         for(let j = i; j < s.length; j++) {
-            map.set(s[j], (map.get(s[j]) || 0) + 1);
+            freq[s[j].charCodeAt(0) - 97]++;
 
-            if(map.size > 1) {
-                let {maxF, minF} = minAndMax(map);
-                beautySum += maxF - minF;
+            let maxFreq = 0;
+            let minFreq = Infinity;
+
+            for (let k = 0; k < 26; k++) {
+                if (freq[k] > 0) {
+                    maxFreq = Math.max(maxFreq, freq[k]);
+                    minFreq = Math.min(minFreq, freq[k]);
+                }
             }
+
+            totalBeauty += (maxFreq - minFreq);
         }
     }
 
-    return beautySum;
+    return totalBeauty;
 };
