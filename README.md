@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/piyushNegiDev/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/piyushNegiDev/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/piyushNegiDev/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/piyushNegiDev/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/piyushNegiDev/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/piyushNegiDev/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2351-first-letter-to-appear-twice](https://github.com/piyushNegiDev/DSA/tree/master/2351-first-letter-to-appear-twice) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/piyushNegiDev/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/piyushNegiDev/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/piyushNegiDev/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/piyushNegiDev/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/piyushNegiDev/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/piyushNegiDev/DSA/tree/master/2248-intersection-of-multiple-arrays) |
 | [2351-first-letter-to-appear-twice](https://github.com/piyushNegiDev/DSA/tree/master/2351-first-letter-to-appear-twice) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/piyushNegiDev/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/piyushNegiDev/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/piyushNegiDev/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/piyushNegiDev/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2248-intersection-of-multiple-arrays](https://github.com/piyushNegiDev/DSA/tree/master/2248-intersection-of-multiple-arrays) |
 | [2351-first-letter-to-appear-twice](https://github.com/piyushNegiDev/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/piyushNegiDev/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
