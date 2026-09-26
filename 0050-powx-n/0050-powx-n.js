@@ -3,23 +3,22 @@
  * @param {number} n
  * @return {number}
  */
-var pow = function (x, n) {
-  if (n === 0) return 1;
-  let half = pow(x, Math.floor(n / 2));
+var myPow = function(x, n) {
+    let ans = 1;
+    let num = n;
 
-  if (n % 2 === 0) return half * half;
-  else return x * half * half;
-};
+    if(num < 0) num *= -1;
 
-var myPow = function (x, n) {
-  let change = false;
-  if (n < 0) {
-    n = Math.abs(n);
-    change = true;
-  }
-  let ans = pow(x, n);
+    while(num) {
+        if(num % 2) {
+            ans *= x;
+            num--;
+        } else {
+            x *= x;
+            num /= 2;
+        }
+    }
 
-  if (change) return 1 / ans;
-
-  return ans;
+    if(n < 0) return 1 / ans;
+    return ans;
 };
