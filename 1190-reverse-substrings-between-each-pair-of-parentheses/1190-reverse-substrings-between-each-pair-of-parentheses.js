@@ -7,8 +7,8 @@ var reverseParentheses = function(s) {
 
     var reverse = function(left, right) {
         while(left < right) {
-            if(s[left] === '(') left++;
-            if(s[right] === ')') right--;
+            while((s[left] === '(' || s[left] === ')') && left < right) left++;
+            while((s[right] === ')' || s[right] === '(') && left < right) right--;
             [s[left], s[right]] = [s[right], s[left]];
             left++;
             right--;
