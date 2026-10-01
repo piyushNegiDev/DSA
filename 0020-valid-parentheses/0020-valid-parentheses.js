@@ -5,29 +5,20 @@
 var isValid = function(s) {
     let stack = [];
 
-    let map = {
-        '}':"{",
-        ']':'[',
-        ')':'(',
+    let storage = {
+        '{' : '}',
+        '(' : ')',
+        "[" : ']',         
     }
 
-    for(let char of s) {
-
-        if(char === '{' || char === '[' || char === '(') {
-            stack.push(char);
+    for(let i = 0; i < s.length; i++) {
+        if(s[i] === '{' || s[i] === '(' || s[i] === '[') {
+            stack.push(s[i]);
         } else {
-            
-            if(stack.length === 0) {
-                return false;
-            }
-
             let top = stack.pop();
-
-            if(top !== map[char]) {
-                return false;
-            }
+            if(storage[top] !== s[i]) return false;
         }
     }
 
-    return stack.length === 0;
+    return stack.length !== 0 ? false : true;
 };
