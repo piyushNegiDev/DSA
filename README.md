@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/piyushNegiDev/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/piyushNegiDev/DSA/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/piyushNegiDev/DSA/tree/master/0989-add-to-array-form-of-integer) |
+| [1006-clumsy-factorial](https://github.com/piyushNegiDev/DSA/tree/master/1006-clumsy-factorial) |
 | [1137-n-th-tribonacci-number](https://github.com/piyushNegiDev/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/piyushNegiDev/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/piyushNegiDev/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0495-teemo-attacking](https://github.com/piyushNegiDev/DSA/tree/master/0495-teemo-attacking) |
+| [1006-clumsy-factorial](https://github.com/piyushNegiDev/DSA/tree/master/1006-clumsy-factorial) |
 | [1260-shift-2d-grid](https://github.com/piyushNegiDev/DSA/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/piyushNegiDev/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/piyushNegiDev/DSA/tree/master/1929-concatenation-of-array) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/piyushNegiDev/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/piyushNegiDev/DSA/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/piyushNegiDev/DSA/tree/master/0496-next-greater-element-i) |
+| [1006-clumsy-factorial](https://github.com/piyushNegiDev/DSA/tree/master/1006-clumsy-factorial) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/piyushNegiDev/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/piyushNegiDev/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/piyushNegiDev/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
