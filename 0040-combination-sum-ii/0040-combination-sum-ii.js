@@ -15,12 +15,16 @@ var helper = function(nums, target, currentArr, index, sum, ans) {
     let previous = -1
 
     for(let i = index; i < nums.length; i++) {
-        if(previous !== nums[i]) {
-            currentArr.push(nums[i]);
-            helper(nums, target, currentArr, i + 1, sum + nums[i], ans);
-            currentArr.pop();
-            previous = nums[i];
+        if(previous === nums[i]) {
+            continue;
         }
+        if(sum + nums[i] > target) {
+            break;
+        }
+        currentArr.push(nums[i]);
+        helper(nums, target, currentArr, i + 1, sum + nums[i], ans);
+        currentArr.pop();
+        previous = nums[i];
     }
 }
 
