@@ -26,7 +26,6 @@ var helper = function(nums, target, currentArr, index, sum, ans) {
 
 var combinationSum2 = function(candidates, target) {
     candidates.sort((a, b) => a - b);
-    console.log(candidates);
     let ans = [];
     helper(candidates, target, [], 0, 0, ans)
     return ans;
