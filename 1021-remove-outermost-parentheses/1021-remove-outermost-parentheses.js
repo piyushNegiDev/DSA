@@ -3,17 +3,19 @@
  * @return {string}
  */
 var removeOuterParentheses = function(s) {
-    let stack = [];
+    let depth = 0;
     let ans = '';
 
     for(let i = 0; i < s.length; i++) {
         if(s[i] === '(') {
-            stack.push(i);
+            depth++;
+            if(depth > 1) {
+                ans += s[i];
+            }
         } else {
-            let top = stack.pop();
-
-            if(stack.length === 0) {
-                ans += s.slice(top + 1, i);
+            depth--;
+            if(depth > 0) {
+                ans += s[i];
             }
         }
     }
