@@ -4,6 +4,10 @@
  * @return {number[][]}
  */
 var helper = function(k, n, start, comb, ans, sum) {
+    if(comb.length > k) {   
+        return;
+    }
+
     if(sum === n && comb.length === k) {
         ans.push([...comb]);
     }
