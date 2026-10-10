@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-sort-even-and-odd-indices-independently](https://github.com/piyushNegiDev/DSA/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/piyushNegiDev/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/piyushNegiDev/DSA/tree/master/2248-intersection-of-multiple-arrays) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/piyushNegiDev/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/piyushNegiDev/DSA/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2553-separate-the-digits-in-an-array](https://github.com/piyushNegiDev/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2643-row-with-maximum-ones](https://github.com/piyushNegiDev/DSA/tree/master/2643-row-with-maximum-ones) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/piyushNegiDev/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/piyushNegiDev/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1901-find-a-peak-element-ii](https://github.com/piyushNegiDev/DSA/tree/master/1901-find-a-peak-element-ii) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/piyushNegiDev/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Math
 |  |
 | ------- |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/piyushNegiDev/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/piyushNegiDev/DSA/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2248-intersection-of-multiple-arrays](https://github.com/piyushNegiDev/DSA/tree/master/2248-intersection-of-multiple-arrays) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/piyushNegiDev/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/piyushNegiDev/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/piyushNegiDev/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/piyushNegiDev/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -443,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/piyushNegiDev/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1903-largest-odd-number-in-string](https://github.com/piyushNegiDev/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/piyushNegiDev/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/piyushNegiDev/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/piyushNegiDev/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/piyushNegiDev/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/piyushNegiDev/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -457,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/piyushNegiDev/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/piyushNegiDev/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/piyushNegiDev/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/piyushNegiDev/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Counting Sort
 |  |
 | ------- |
