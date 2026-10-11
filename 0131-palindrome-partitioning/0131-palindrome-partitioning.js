@@ -17,17 +17,16 @@ var isPalin = function(subS) {
     return true;
 }
 
-var helper = function(s, part, ans, start) {
-    if(s.length <= start) {
-        console.log(start);
+var helper = function(s, part, ans) {
+    if(s.length === 0) {
         ans.push([...part]);
         return;
     }
 
-    for(let i = start; i < s.length; i++) {
-        if(isPalin(s.slice(start, i + 1))) {
-            part.push(s.slice(start, i + 1));
-            helper(s, part, ans, i + 1);
+    for(let i = 0; i < s.length; i++) {
+        if(isPalin(s.slice(0, i + 1))) {
+            part.push(s.slice(0, i + 1));
+            helper(s.slice(i+1), part, ans);
             part.pop();
         }
     }
@@ -35,6 +34,6 @@ var helper = function(s, part, ans, start) {
 
 var partition = function(s) {
     let ans = [];
-    helper(s, [], ans, 0)
+    helper(s, [], ans)
     return ans;
 };
