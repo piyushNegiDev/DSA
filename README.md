@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/piyushNegiDev/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/piyushNegiDev/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/piyushNegiDev/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/piyushNegiDev/DSA/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/piyushNegiDev/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/piyushNegiDev/DSA/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/piyushNegiDev/DSA/tree/master/0090-subsets-ii) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/piyushNegiDev/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/piyushNegiDev/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/piyushNegiDev/DSA/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/piyushNegiDev/DSA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/piyushNegiDev/DSA/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/piyushNegiDev/DSA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/piyushNegiDev/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/piyushNegiDev/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/piyushNegiDev/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/piyushNegiDev/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/piyushNegiDev/DSA/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/piyushNegiDev/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/piyushNegiDev/DSA/tree/master/1260-shift-2d-grid) |
 | [1901-find-a-peak-element-ii](https://github.com/piyushNegiDev/DSA/tree/master/1901-find-a-peak-element-ii) |
@@ -611,8 +614,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/piyushNegiDev/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/piyushNegiDev/DSA/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/piyushNegiDev/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/piyushNegiDev/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/piyushNegiDev/DSA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/piyushNegiDev/DSA/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/piyushNegiDev/DSA/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/piyushNegiDev/DSA/tree/master/0282-expression-add-operators) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/piyushNegiDev/DSA/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
