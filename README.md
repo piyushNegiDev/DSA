@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/piyushNegiDev/DSA/tree/master/0169-majority-element) |
 | [0216-combination-sum-iii](https://github.com/piyushNegiDev/DSA/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/piyushNegiDev/DSA/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/piyushNegiDev/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/piyushNegiDev/DSA/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/piyushNegiDev/DSA/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/piyushNegiDev/DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/piyushNegiDev/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/piyushNegiDev/DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/piyushNegiDev/DSA/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/piyushNegiDev/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/piyushNegiDev/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/piyushNegiDev/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/piyushNegiDev/DSA/tree/master/0268-missing-number) |
@@ -538,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/piyushNegiDev/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/piyushNegiDev/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/piyushNegiDev/DSA/tree/master/0567-permutation-in-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/piyushNegiDev/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/piyushNegiDev/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
