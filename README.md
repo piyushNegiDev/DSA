@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/piyushNegiDev/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/piyushNegiDev/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/piyushNegiDev/DSA/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2409-count-days-spent-together](https://github.com/piyushNegiDev/DSA/tree/master/2409-count-days-spent-together) |
 | [2544-alternating-digit-sum](https://github.com/piyushNegiDev/DSA/tree/master/2544-alternating-digit-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/piyushNegiDev/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/piyushNegiDev/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/piyushNegiDev/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/piyushNegiDev/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2351-first-letter-to-appear-twice](https://github.com/piyushNegiDev/DSA/tree/master/2351-first-letter-to-appear-twice) |
+| [2409-count-days-spent-together](https://github.com/piyushNegiDev/DSA/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/piyushNegiDev/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/piyushNegiDev/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/piyushNegiDev/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
