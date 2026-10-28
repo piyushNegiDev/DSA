@@ -4,32 +4,19 @@
  * @return {string[]}
  */
 var createGrid = function(m, n) {
-    let grid = Array.from({ length: m }, () => Array.from({ length: n }, () => 0));
+    let grid = Array.from({ length: m }, () => Array.from({ length: n }, () => '#'));
 
-    var helper = function(row, col) {
-        if(row === m - 1 && col === n - 1) {
-            grid[row][col] = '.';
-            return;
-        }
-
-        if(col + 1 < grid[row].length) {
-            grid[row][col] = '.';
-            helper(row, col + 1);
-        } else if (row + 1 < grid.length) {
-            grid[row][col] = '.';
-            helper(row + 1, col);
-        }
+    for(let i = 0; i < n; i++) {
+        grid[0][i] = '.';
     }
 
-    helper(0, 0);
+    grid[0] = grid[0].join('');
 
-    for(let i = 0; i < grid.length; i++) {
-        for(let j = 0; j < grid[i].length; j++) {
-            if(grid[i][j] === 0) {
-                grid[i][j] = '#';
-            }
+    if(m > 1) {
+        for(let i = 1; i < m; i++) {
+            grid[i][n - 1] = '.';
+            grid[i] = grid[i].join('');
         }
-        grid[i] = grid[i].join('');
     }
 
     return grid;
