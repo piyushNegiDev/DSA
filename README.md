@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/piyushNegiDev/DSA/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/piyushNegiDev/DSA/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/piyushNegiDev/DSA/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/piyushNegiDev/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/piyushNegiDev/DSA/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/piyushNegiDev/DSA/tree/master/0493-reverse-pairs) |
 | [0495-teemo-attacking](https://github.com/piyushNegiDev/DSA/tree/master/0495-teemo-attacking) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/piyushNegiDev/DSA/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/piyushNegiDev/DSA/tree/master/0282-expression-add-operators) |
 | [0367-valid-perfect-square](https://github.com/piyushNegiDev/DSA/tree/master/0367-valid-perfect-square) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/piyushNegiDev/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/piyushNegiDev/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/piyushNegiDev/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/piyushNegiDev/DSA/tree/master/0836-rectangle-overlap) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/piyushNegiDev/DSA/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/piyushNegiDev/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/piyushNegiDev/DSA/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/piyushNegiDev/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0561-array-partition](https://github.com/piyushNegiDev/DSA/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/piyushNegiDev/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/piyushNegiDev/DSA/tree/master/0977-squares-of-a-sorted-array) |
