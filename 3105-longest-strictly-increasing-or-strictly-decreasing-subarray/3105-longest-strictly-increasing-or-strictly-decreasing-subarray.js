@@ -3,23 +3,21 @@
  * @return {number}
  */
 var longestMonotonicSubarray = function(nums) {
-    let left = 0;
+    let leftInc = 0;
+    let leftDec = 0;
     let maxLen = 1;
 
     for(let i = 1; i < nums.length; i++) {
         if(nums[i - 1] < nums[i]) {
-            maxLen = Math.max(maxLen, i - left + 1);
+            maxLen = Math.max(maxLen, i - leftInc + 1);
         } else {
-            left = i;
+            leftInc = i;
         }
-    }
 
-    left = 0;
-    for(let i = 1; i < nums.length; i++) {
         if(nums[i - 1] > nums[i]) {
-            maxLen = Math.max(maxLen, i - left + 1);
+            maxLen = Math.max(maxLen, i - leftDec + 1);
         } else {
-            left = i;
+            leftDec = i;
         }
     }
 
