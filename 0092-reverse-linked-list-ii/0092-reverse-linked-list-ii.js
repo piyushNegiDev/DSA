@@ -37,9 +37,7 @@ var reverseBetween = function(head, left, right) {
 
     while(current) {
         count++;
-
-        console.log(current.val)
-        
+                
         if(count === left) {
             let listCurrent = current;
             let prevNode = null;
