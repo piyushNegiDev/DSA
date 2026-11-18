@@ -3,29 +3,13 @@
  * @return {number}
  */
 var minChanges = function(s) {
-    let minChanges = 0;
+    let changes = 0;
 
-    while(s.length > 0) {
-        let st = s.slice(0, 2);
-        let numOfZero = 0;
-        let numOfOne = 0;
-
-        if(st[0] === '1') {
-            numOfOne++;
-        } else {
-            numOfZero++;
+    for(let i = 0; i < s.length - 1; i += 2) {
+        if(s[i] !== s[i + 1]) {
+            changes++;
         }
-
-        if(st[1] === '1') {
-            numOfOne++;
-        } else {
-            numOfZero++;
-        }
-
-        minChanges += Math.min(numOfZero, numOfOne);
-
-        s = s.slice(2);
     }
 
-    return minChanges;
+    return changes;
 };
